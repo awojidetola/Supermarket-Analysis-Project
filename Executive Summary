@@ -1,0 +1,21 @@
+# EXECUTIVE SUMMARY
+
+## PROBLEM STATEMENT:
+Company XYZ owns a supermarket chain across the country. Each major branch located in 3 cities across the countries recorded sales information for 3 months, help the company to understand sales trends and determine its growth as the rise of supermarkets competition is seen.
+
+## ANALYSIS
+* There are 1000 sales in the company (1000 Unique Invoice_ID), and there are 3 branches of supermarket located in Lagos, Abuja and Port Harcourt respectively. 
+* All 3 branches acquire an average total of 116268 naira and the maximum total sales obtained was 375354 naira. 
+* Lagos recorded the highest number of sales followed by Abuja and then Port Harcourt. Upon further analysis, it was realized that although Port Harcourt had the least number of sales, it had the highest amount of gross income.  
+* It was discovered that more sales were in Fashion accessories, Food and Beverages and Electronic Accessories with less people interested in Sports and Travel, Home and Lifestyle and Health and beauty. 
+
+The company has 2 options here: 
+
+* Focus on Product Line with more sales
+* Promote those with lesser sales by using Advertisement, Promos etc.
+
+The above points have been illustrated numerically as well as graphically for your consumption. 
+
+In addition, a predictive analysis could be obtained to predict the amount of future gross income for the Supermarkets. 
+
+Thank you
